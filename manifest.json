@@ -1,0 +1,19 @@
+{
+  "name": "GymTracker",
+  "short_name": "GymTracker",
+  "description": "Personal trainer app voor bulken",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#0d0d12",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
